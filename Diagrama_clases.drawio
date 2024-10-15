@@ -71,7 +71,7 @@
         <mxCell id="gRg0W0RZRQ-PAgkCzWt9-33" value="" style="line;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="gRg0W0RZRQ-PAgkCzWt9-31">
           <mxGeometry y="110" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="gRg0W0RZRQ-PAgkCzWt9-34" value="+assignTicket()&lt;div&gt;+resolveTicket()&lt;/div&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="gRg0W0RZRQ-PAgkCzWt9-31">
+        <mxCell id="gRg0W0RZRQ-PAgkCzWt9-34" value="+createTicket()&lt;div&gt;+closeTicket()&lt;/div&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="gRg0W0RZRQ-PAgkCzWt9-31">
           <mxGeometry y="118" width="210" height="52" as="geometry" />
         </mxCell>
       </root>
