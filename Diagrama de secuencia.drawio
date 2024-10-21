@@ -82,7 +82,7 @@
           <mxGeometry x="635" y="290" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="635" y="460" width="10" height="200" as="geometry" />
+          <mxGeometry x="635" y="460" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-14" value="crear ticket" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
